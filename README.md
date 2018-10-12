@@ -1,1 +1,1 @@
-# Some_thoughts
+# some_thoughts
